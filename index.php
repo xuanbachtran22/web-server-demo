@@ -1,4 +1,3 @@
 Hello Jenkins<br>
-Hello Ong Bach
-chao ngay moi
-vui ve
+Hello Ong Bach<br>
+chao ngay moi vui ve
